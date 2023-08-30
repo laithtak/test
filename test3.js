@@ -23,3 +23,5 @@ class Dog extends Animal {
 
 const dog = new Dog("Buddy", "Golden Retriever");
 dog.speak();
+
+console.log("Hello everyone");
